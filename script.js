@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const options = {
       method: "GET",
       headers: {
-        //"x-rapidapi-key": "05c8a9cef7msh0a4c649ac377913p11763ejsn68c47d224d7f",
+        "x-rapidapi-key": "05c8a9cef7msh0a4c649ac377913p11763ejsn68c47d224d7f",
         "x-rapidapi-host": "open-weather13.p.rapidapi.com",
       },
     };
